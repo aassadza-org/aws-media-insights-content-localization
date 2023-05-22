@@ -1,5 +1,5 @@
 pytest==4.5.0
-requests==2.22.0
+requests==2.31.0
 requests_aws4auth==1.1.1
 webdriver-manager==3.4.2
 selenium==3.141.0
